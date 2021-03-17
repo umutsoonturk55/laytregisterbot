@@ -1,0 +1,17 @@
+{
+  "prefixes": ["."],
+  "botToken": "NDU3MDg5MTgwNDc3MTYxNDc0.WyNveA.cPos5rbitS1L_XqZhpbZb-0XURA",
+  "developers": ["", "319088944212082688"],
+  "mongooseConnectURL": "",
+  "botStatus": "Layt REGİSTER",
+  "name_age": true,
+  "embedColor": "RANDOM",
+  "defaultTag": "✯",
+  "tag": "✯",
+  "staffRoles": [810443226577764362],
+  "invalids": [],
+  "unregisterRoles": [810443189075836938],
+  "boyRoles": [810443186010324994],
+  "girlRoles": [810443183456256021],
+  "tagRoles": [810443180662849537]
+}
